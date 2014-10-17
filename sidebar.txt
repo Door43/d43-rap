@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rap:home|Door43 (rap)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rap|d43-rap repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rap/archive/master.zip|d43-rap.zip]]
+
+**Recent Changes**
+{{changes>ns = rap}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rap|Ethnologue data]]
+
